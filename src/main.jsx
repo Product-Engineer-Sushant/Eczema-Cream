@@ -10,9 +10,9 @@ import "./styles.css";
 import img1 from "../src/assets/images/1.png"
 import img2 from "../src/assets/images/2.png"
 import img3 from "../src/assets/images/3.png"
-import img4 from "../src/assets/images/4.png"
+import img4 from "../src/assets/images/4.PNG"
 import img5 from "../src/assets/images/5.png"
-import img6 from "../src/assets/images/6.png"
+import img6 from "../src/assets/images/6.PNG"
 
 // Empty when the client and API share a deployment. Otherwise use the public API URL.
 const API_BASE_URL = (import.meta.env.VITE_API_URL || "").replace(/\/$/, "");
